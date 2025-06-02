@@ -4,21 +4,6 @@
 
 - 🔗 [Notion](https://icy-citron-b57.notion.site/DATAThon-M2-202309f028f0806f9314ff6e91b33c7b)
 
-## 팀원 및 역할
-*슬기로운 데싸 생활 (슬데생)*
-- 박태현 [조장]
-  - 발표
-- 최은서
-  - ppt 제작
-  - 
-- 양이은
-  - 회의록 정리
-- 조현복
-
-
--> 동시 테스트 진행 및 작업 수행 : 데이터 전처리 및 테스트를 함께 수행
-
-
 ## DataSet
 - Exploring Mental Health Data (정신 건강 데이터)
 - 🔗 [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e11/overview)
